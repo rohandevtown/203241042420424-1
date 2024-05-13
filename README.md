@@ -13,7 +13,9 @@ code .
 
     git checkout -b "branch-Name"
 
-Font Awesom : https://fontawesome.com/search?q=search&o=r
+Font Awesome : https://fontawesome.com/search?q=search&o=r
 Font Awesome CDN: https://cdnjs.com/libraries/font-awesome
 
 Google Fonts: https://fonts.google.com/
+
+Grid: >> 2D Layouts >> Always requires media queries >> Ratio Systems >> fr: fragments >> grid-template-column: 1fr 1fr 1fr 1fr 1fr >> gap: 10px
